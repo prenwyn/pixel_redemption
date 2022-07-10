@@ -1,3 +1,5 @@
+use pixel_redemption::run;
+
 fn main() {
-    println!("Hello, world!");
+    run();
 }
